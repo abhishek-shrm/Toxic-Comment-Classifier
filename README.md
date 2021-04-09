@@ -5,7 +5,7 @@ A Multi-Label Text Classification Project that uses Convolutional Neural Network
 Toxic Comment Classification Challenge Dataset([link](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge))
 
 # Code
-Model Building and Hyperparamter Tuning Notebook([link](https://www.kaggle.com/abhishek2195/toxic-comment-cnn-modeling-single))
+Model Building and Hyperparamter Tuning Notebook([link](https://www.kaggle.com/abhishek2195/toxic-comment-cnn-modeling-single))\
 Note: During Hyperparameter Tuning, I have scaled different features of CNN by varying one or two features and keeping others constant so that search space doesn't go into multiple dimensions. Different parameters are tuned in different versions of the same notebook.
 
 Final Notebook with Data Exploration, Data Cleaning, Feature Engineering and Modeling([link](https://www.kaggle.com/abhishek2195/toxic-comment-cnn-modeling-final?scriptVersionId=42997055))
